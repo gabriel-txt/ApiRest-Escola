@@ -151,5 +151,3 @@ Este projeto é de código aberto — sinta-se livre para usar e modificar confo
 ---
 
 Feito com ❤️ por Gabriel Póvoa
-
-Quer que eu adicione também uma **seção de exemplos práticos com cURL ou Axios**, pra que os usuários possam testar os endpoints diretamente? (fica ótimo no README do GitHub)
