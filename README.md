@@ -54,7 +54,7 @@ Este projeto oferece um conjunto de endpoints para **gerenciar usuários e aluno
    npm run dev
    ```
    O servidor iniciará em:  
-   👉 `http://localhost:3000`
+   👉 `http://localhost:3000` -> APP_URL
 
 ---
 
