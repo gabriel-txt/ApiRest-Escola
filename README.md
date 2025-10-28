@@ -54,7 +54,7 @@ Este projeto oferece um conjunto de endpoints para **gerenciar usuários e aluno
    npm run dev
    ```
    O servidor iniciará em:  
-   👉 `http://localhost:3000` -> APP_URL
+   👉 `http://localhost:3000` → APP_URL
 
 ---
 
@@ -135,7 +135,9 @@ API_REST/
 │   │   └── db.js         → Conexão com banco
 │   ├── middlewares/      → Autenticação e tratamento de erros
 │   ├── models/           → Modelos Sequelize
-│   └── routes/           → Rotas da API
+│   |── routes/           → Rotas da API
+|   |── app.js            → Configuração da aplicação Express
+|   └── server.js         → Programa principal da API
 │
 ├── uploads/images/       → Pasta de upload de imagens
 ├── .env.example          → Exemplo de variáveis de ambiente
